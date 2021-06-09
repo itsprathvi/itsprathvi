@@ -1,10 +1,10 @@
+<div align="center">
+<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="funny GIF" width="300px" height="300px">
+</div>
+
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
 
 # Iam A Web Developer 
-
-<div align="center">
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="funny GIF" width="300px" height="300px">
-</div>
 
 - 🔭 I’m currently working on Wholesale Marketing App
 - 🌱 I’m currently learning Flutter and Dart

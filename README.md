@@ -9,9 +9,8 @@
 - 💬 Ask me about Web development and related stuffs
 - ⚡ Fun fact: Hehehe,I always do fun with friends
 
-### Spotify Playing 🎧
 <div align="center">
-[<img width="300px" height="300px" src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />]
+<img width="300px" height="300px" src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="codeSTACKr Spotify Playing"/>
 </div>
 
 ### Connect with me:

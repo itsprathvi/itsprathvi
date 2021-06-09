@@ -3,8 +3,6 @@
 <img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
 </div>
 
-## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
-
 # Iam A Web Developer 
 
 - 🔭 I’m currently working on Wholesale Marketing App
@@ -39,18 +37,18 @@
 </div>
 <br />
 <br />
-<div align="center">
+
 <a href="https://github.com/itsprathvi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
 </a>
-</div>
+
 <br />
 <br />
-<div align="center">
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+
+<a href="https://github.com/itsprathvi/my_ocr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=VelocityX&theme=light" />
 </a>
-</div>
+
 
 [website]: http://ocr-converter.herokuapp.com/
 [twitter]: https://twitter.com/PrathvirajPrab1

@@ -37,18 +37,19 @@
 </div>
 <br />
 <br />
-
+<div align="center">
 <a href="https://github.com/itsprathvi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
 </a>
-
+</div>
 <br />
+### My First Webwork:
 <br />
-
-<a href="https://github.com/itsprathvi/my-ocr">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=my-ocr&theme=light" />
+<div align="center">
+<a href="https://github.com/itsprathvi/OCR_BOX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OCR_BOX&repo=my-ocr&theme=light" />
 </a>
-
+</div>
 
 [website]: http://ocr-converter.herokuapp.com/
 [twitter]: https://twitter.com/PrathvirajPrab1

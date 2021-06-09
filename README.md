@@ -3,7 +3,7 @@
 <div align="right">
 <img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
 </div>
-<div align="left">
+
 # Iam A Web Developer 
 
 - 🔭 I’m currently working on Wholesale Marketing App
@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Backend Development in Flutter
 - 💬 Ask me about Web development and related stuffs
 - ⚡ Fun fact: Hehehe,I always do fun with friends
-</div>
+
 
 ### Connect with me:
 

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="funny GIF" width="300px" height="300px">
+<iframe src="https://giphy.com/embed/yrhhmre5fN2PtRujfo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hills-pet-nutrition-science-diet-yrhhmre5fN2PtRujfo">via GIPHY</a></p>
 </div>
 
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉

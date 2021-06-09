@@ -49,7 +49,7 @@
 <br />
 <div align="center">
 <a href="https://github.com/itsprathvi/OCR_BOX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OCR_BOX&repo=my-ocr&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=OCR_BOX&theme=light" />
 </a>
 </div>
 

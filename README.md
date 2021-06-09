@@ -3,7 +3,7 @@
 # Iam A Web Developer 
 
 <div align="center">
-<img src="https://gph.is/g/4oMAzg0" alt="funny GIF" width="300px" height="300px">
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="funny GIF" width="300px" height="300px">
 </div>
 
 - 🔭 I’m currently working on Wholesale Marketing App

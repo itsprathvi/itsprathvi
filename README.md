@@ -1,7 +1,7 @@
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
 
-<div align="right">
-<img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
+<div align="center">
+<img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" alt="no gif" width="800px" height="300px"/>
 </div>
 
 # Iam A Web Developer 

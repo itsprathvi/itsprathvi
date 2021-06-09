@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<a href="https://github.com/itsprathvi/my_ocr">
+<a href="https://github.com/itsprathvi/my-ocr">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=VelocityX&theme=light" />
 </a>
 

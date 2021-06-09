@@ -15,12 +15,13 @@
 
 ### Connect with me:
 
+<div align="center">
 [<img align="left" alt="OCR BOX" width="22px" src="http://ocr-converter.herokuapp.com/" />][website]
 [<img align="left" alt="JAKKA JAWANAS" width="22px" src="https://www.youtube.com/channel/UC6AvtKYKQJ_IORyyQSZee-w" />][youtube]
 [<img align="left" alt="Prathviraj | Twitter" width="22px" src="https://twitter.com/PrathvirajPrab1" />][twitter]
 [<img align="left" alt="Prathviraj | LinkedIn" width="22px" src="https://www.linkedin.com/in/prathviraj-prabhu-430123193/" />][linkedin]
 [<img align="left" alt="Prathviraj | Instagram" width="22px" src="https://www.instagram.com/prathvi.raj_/" />][instagram]
-
+</div>
 <br />
 
 
@@ -28,9 +29,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/itsprathvi">
@@ -49,6 +48,4 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
 

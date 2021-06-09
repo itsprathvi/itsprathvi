@@ -1,5 +1,5 @@
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
-<div align="center">
+<div align="right">
 <img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
 </div>
 
@@ -32,7 +32,7 @@
 <br />
 <div align="center">
 <a href="https://github.com/itsprathvi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprathvi&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprathvi&show_icons=true&theme=dark&line_height=27" alt="Prathvi's github stats"/>
 </a>
 </div>
 <br />

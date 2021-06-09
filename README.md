@@ -1,6 +1,10 @@
-## Hola, I'm [Prathvi](https://github.com/itsprathvi) 😉
+## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
 
-# Web Developer 
+# Iam A Web Developer 
+
+<div align="center">
+<img src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="funny GIF" width="300px" height="300px">
+</div>
 
 - 🔭 I’m currently working on Wholesale Marketing App
 - 🌱 I’m currently learning Flutter and Dart
@@ -8,10 +12,6 @@
 - 🤔 I’m looking for help with Backend Development in Flutter
 - 💬 Ask me about Web development and related stuffs
 - ⚡ Fun fact: Hehehe,I always do fun with friends
-
-<div align="center">
-<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
-</div>
 
 ### Connect with me:
 

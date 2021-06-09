@@ -1,7 +1,6 @@
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
-<div align="right">
-<img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
-</div>
+
+<img align="right"src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
 
 # Iam A Web Developer 
 
@@ -39,7 +38,7 @@
 <br />
 <div align="center">
 <a href="https://github.com/itsprathvi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=dark&hide_langs_below=1" />
 </a>
 </div>
 <br />
@@ -48,7 +47,7 @@
 <br />
 <div align="center">
 <a href="https://github.com/itsprathvi/OCR_BOX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=OCR_BOX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=OCR_BOX&theme=dark" />
 </a>
 </div>
 

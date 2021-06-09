@@ -10,8 +10,9 @@
 - ⚡ Fun fact: Hehehe,I always do fun with friends
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/2CjnKjbXdhCjY7NzK8lW4H)
+<div align="center">
+[<img width="300px" height="300px" src="https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />]
+</div>
 
 ### Connect with me:
 
@@ -33,12 +34,14 @@
 <br />
 <div align="center">
 <a href="https://github.com/itsprathvi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprathvi&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 </div>
+<br />
+<br />
 <div align="center">
 <a href="https://github.com/itsprathvi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprathvi&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
 </a>
 </div>
 

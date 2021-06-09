@@ -46,12 +46,7 @@
 
 ### My First Webwork:
 
-<br />
-<div align="center">
-<a href="https://github.com/itsprathvi/OCR_BOX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=OCR_BOX&theme=light" />
-</a>
-</div>
+
 
 [website]: http://ocr-converter.herokuapp.com/
 [twitter]: https://twitter.com/PrathvirajPrab1

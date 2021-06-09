@@ -1,6 +1,6 @@
 ## Hola, I'm [Prathvi](https://github.com/itsprathvi) 😉
 
-# I'm a Web Developer 
+# Web Developer 
 
 - 🔭 I’m currently working on Wholesale Marketing App
 - 🌱 I’m currently learning Flutter and Dart
@@ -15,22 +15,22 @@
 
 ### Connect with me:
 
-<div align="center">
-[<img align="left" alt="OCR BOX" width="22px" src="http://ocr-converter.herokuapp.com/" />][website]
-[<img align="left" alt="JAKKA JAWANAS" width="22px" src="https://www.youtube.com/channel/UC6AvtKYKQJ_IORyyQSZee-w" />][youtube]
-[<img align="left" alt="Prathviraj | Twitter" width="22px" src="https://twitter.com/PrathvirajPrab1" />][twitter]
-[<img align="left" alt="Prathviraj | LinkedIn" width="22px" src="https://www.linkedin.com/in/prathviraj-prabhu-430123193/" />][linkedin]
-[<img align="left" alt="Prathviraj | Instagram" width="22px" src="https://www.instagram.com/prathvi.raj_/" />][instagram]
-</div>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
 
+### Languages and Tools:
 
-**Languages and Tools:**  
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<br />
+<br />
 
 <a href="https://github.com/itsprathvi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
@@ -38,14 +38,12 @@
 <a href="https://github.com/itsprathvi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprathvi&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<!-- 
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a> -->
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
+[website]: http://ocr-converter.herokuapp.com/
+[twitter]: https://twitter.com/PrathvirajPrab1
+[youtube]: https://www.youtube.com/channel/UC6AvtKYKQJ_IORyyQSZee-w
+[instagram]: https://www.instagram.com/prathvi.raj_/
+[linkedin]: https://www.linkedin.com/in/prathviraj-prabhu-430123193/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?

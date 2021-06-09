@@ -1,5 +1,6 @@
+## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
 <div align="center">
-<img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="1000px" height="300px"/>
+<img src="https://media.giphy.com/media/llJVg4Ri0VrUBzNOgG/giphy.gif" alt="no gif" width="400px" height="300px"/>
 </div>
 
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
@@ -41,6 +42,13 @@
 <div align="center">
 <a href="https://github.com/itsprathvi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprathvi&theme=light&hide_langs_below=1" />
+</a>
+</div>
+<br />
+<br />
+<div align="center">
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 </div>
 

@@ -1,6 +1,6 @@
 <h1 align="center" > Hola, It's Prathvi 😉</h1>
 
-<h5 align="center" >🎭 PLAYING WITH CODES 🎭</h5>
+<h5 align="center" >PLAYING WITH CODES 🎭</h5>
 
 <h2 align="center" > Iam A Web Developer </h2>
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px" height="350px" alt="no image" />

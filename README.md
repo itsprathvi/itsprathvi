@@ -1,6 +1,6 @@
-## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
+<h2 align="center" > Hola, It's Prathvi 😉</h2>
 
-#### PLAYING WITH CODES🎭
+<h4 align="center" >PLAYING WITH CODES🎭</h4>
 
 # Iam A Web Developer 
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px" height="350px" alt="no image" />

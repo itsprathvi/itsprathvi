@@ -4,24 +4,20 @@
 # Iam A Web Developer 
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px" height="350px" alt="no image" />
 <br />
+
 #### - 🔭 I’m currently working on Wholesale Marketing App
 <br />
+
 #### - 🌱 I’m currently learning Flutter and Dart
 <br />
-#### - 👯 I’m looking to collaborate on Github.
 
+#### - 🤔 I’m looking for help with Backend in Flutter
 <br />
 
-#### - 🤔 I’m looking for help with Backend Development in Flutter
-
-<br />
-
-#### - 💬 Ask me about Web development and related stuffs
-
+#### - 💬 Ask me about Web development
 <br />
 
 #### - ⚡ Fun fact: Hehehe,I always do fun with friends
-
 <br />
 
 

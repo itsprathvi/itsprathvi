@@ -1,5 +1,7 @@
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
 
+<img align="right" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" alt="no gif" width="800px" height="300px"/>
+
 # Iam A Web Developer 
 
 - 🔭 I’m currently working on Wholesale Marketing App
@@ -8,8 +10,6 @@
 - 🤔 I’m looking for help with Backend Development in Flutter
 - 💬 Ask me about Web development and related stuffs
 - ⚡ Fun fact: Hehehe,I always do fun with friends
-
-<img align="right" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" alt="no gif" width="800px" height="300px"/>
 
 
 ### Connect with me:

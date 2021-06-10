@@ -2,7 +2,7 @@
 #### Just Do✨It
 
 # Iam A Web Developer 
-<img align="right" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="350px" height="300px" alt="no image" />
+<img align="right" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="500px" height="300px" alt="no image" />
 <br />
 - 🔭 I’m currently working on Wholesale Marketing App
 <br />

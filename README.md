@@ -1,7 +1,8 @@
 ## Hola, It's [Prathvi](https://github.com/itsprathvi) 😉
+#### Just Do✨It
 
 # Iam A Web Developer 
-<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="350px" height="200px" alt="no image" />
+<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="350px" height="300px" alt="no image" />
 <br />
 - 🔭 I’m currently working on Wholesale Marketing App
 <br />

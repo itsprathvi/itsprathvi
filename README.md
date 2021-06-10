@@ -4,7 +4,6 @@
 
 # Iam A Web Developer 
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px" height="350px" alt="no image" />
-<br />
 
 #### - 🔭 I’m currently working on Wholesale Marketing App
 <br />

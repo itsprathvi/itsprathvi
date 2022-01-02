@@ -2,25 +2,9 @@
 
 <h5 align="center" >PLAYING WITH CODES 🎭</h5>
 
-<h2 align="center" > I AM A WEB DEVELOPER </h2>
+<h2 align="center" > I AM A WEB AND ANDROID DEVELOPER </h2>
 <h2 align="center" > ML DL Enthusiastic </h2>
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px" height="350px" alt="no image" />
-
-#### - 🔭 I’m currently working on Wholesale Marketing App
-<br />
-
-#### - 🌱 I’m currently learning Flutter and Dart
-<br />
-
-#### - 🤔 I’m looking for help with Backend in Flutter
-<br />
-
-#### - 💬 Ask me about Web development
-<br />
-
-#### - ⚡ Fun fact: Hehehe,I always do fun with friends
-<br />
-
 
 ### Connect with me : 
 

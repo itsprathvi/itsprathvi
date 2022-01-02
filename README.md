@@ -4,7 +4,7 @@
 
 <h2 align="center" > I AM A WEB AND ANDROID DEVELOPER </h2>
 <h2 align="center" > ML DL Enthusiastic </h2>
-<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="400px" height="350px" alt="no image" />
+<img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="250px" alt="no image" />
 
 ### Connect with me : 
 

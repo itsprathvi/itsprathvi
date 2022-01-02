@@ -2,8 +2,8 @@
 
 <h5 align="center" >PLAYING WITH CODES 🎭</h5>
 
-<h2 align="center" > I AM A WEB AND ANDROID DEVELOPER </h2>
-<h2 align="center" > ML DL Enthusiastic </h2>
+<h6 align="center" > I AM A WEB AND ANDROID DEVELOPER </h6>
+<h5 align="center" > ML DL Enthusiastic </h5>
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="250px" alt="no image" />
 
 ### Connect with me : 

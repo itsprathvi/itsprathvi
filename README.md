@@ -1,8 +1,8 @@
 <h1 align="center" > Hola, It's Prathvi 😉</h1>
 
-<h5 align="center" >PLAYING WITH CODES 🎭</h5>
+<h6 align="center" >Playing With Codes 🎭</h6>
 
-<h6 align="center" > I AM A WEB AND ANDROID DEVELOPER </h6>
+<h5 align="center" > I am a Web and Android Developer</h5>
 <h5 align="center" > ML DL Enthusiastic </h5>
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="250px" alt="no image" />
 

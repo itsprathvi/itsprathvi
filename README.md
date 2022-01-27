@@ -2,7 +2,7 @@
 
 <h6 align="center" >Playing With Codes 🎭</h6>
 
-<h3 align="center" > I am a Web and Android Developer</h3>
+<h2 align="center" > Web and Android Developer</h2>
 <h4 align="center" > Machine Learning Enthusiastic </h4>
 <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="250px" alt="no image" />
 

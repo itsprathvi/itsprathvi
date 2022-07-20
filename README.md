@@ -15,7 +15,7 @@
 <br />
 <div align="center">
 <a href="https://github.com/itsprathvi/Temple_Database_Project">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=skyBeatz&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=xray_medical_report&theme=dark" />
 </a>
 </div>
 <br/>

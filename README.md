@@ -14,7 +14,7 @@
 
 <br />
 <div align="center">
-<a href="https://github.com/itsprathvi/Temple_Database_Project">
+<a href="https://github.com/itsprathvi/xray_medical_report">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsprathvi&repo=xray_medical_report&theme=dark" />
 </a>
 </div>
